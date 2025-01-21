@@ -27,7 +27,7 @@ nonlocal: 비지역
 not: 부정
 or: 또는
 pass: 넘어가기
-raise: 예외발생
+raise: 발생
 return: 반환
 try: 시도
 while: 까지
